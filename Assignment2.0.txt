@@ -1,0 +1,47 @@
+Q1. What is Wireframe and Mockup?
+Wireframe and mockup are two different concepts used in the field of design and web development.
+
+Wireframe:
+A wireframe is a visual representation of a web page, mobile app, or any other graphical user interface. It is a simplified, low-fidelity outline of the layout, structure, and functionality of a digital product. Wireframes are typically created in the early stages of the design process to help designers and stakeholders plan the arrangement of content and user interface elements. 
+Mockup:
+A mockup is a visual prototype or representation of a design or product, used to showcase its appearance and layout without actual functionality. It helps designers and stakeholders visualize and evaluate the design before development, aiding in decision-making and feedback collection. Mockups can be created with various tools and are essential in design processes across different industries.
+
+Q2. Six Best website designs of this year?
+Lacoste Heritage:
+Lacoste Heritage overwhelms the visitor in a pleasing way with big, bold, and engaging imagery. The platform shows off some of the clothing brand’s most popular offerings and provides a seamless browsing experience.
+
+RCA Records:
+RCA took some major risks with this website, but the acclaimed label pulled it off. The site is ambitious, interactive, and dynamic. It features a fast-moving image gallery at the top of the home page, highlighting today’s most popular artists and the icons of yesteryear.
+
+Unseen Studio:
+Unseen Studio opted for a mix of soft colors and bold text to draw visitors’ attention to core site elements. As users move their cursors around the home page, the screen view shifts slightly. When the cursor passes over the menu text, the lettering changes colors and shimmers.
+
+Hyer:
+Hyer greets users with captivating visuals — a sleek private jet slowly transitions from left to right across the user’s screen while they take in the site. The home page also makes good use of negative (i.e., white or blank) space to avoid overwhelming users.
+
+FPP:
+The website doesn’t rely on loud colors or hyperbolic imagery but instead incorporates softer tones to create an aesthetically pleasing digital environment and an enjoyable user experience.
+
+Mubasic:
+One of the most interesting features of the site is its unique Q&A section. As you scroll down the page, images pop up to accompany each question and answer.
+
+Q3. Difference between scripting and programming language?
+Programming languages and scripting languages are both used for writing code to instruct a computer, but they have some differences in their characteristics and use cases:
+
+Compilation vs. Interpretation:
+Programming Language: Typically, programming languages are compiled. This means that the source code is translated into machine code or an intermediate code by a compiler before it is executed. Compiled languages often result in faster execution but require an additional compilation step before running the program.
+Scripting Language: Scripting languages are usually interpreted. In this case, the code is executed line by line by an interpreter without a separate compilation step. While this may result in slower execution, it allows for more flexibility and ease of use.
+
+Use Cases:
+Programming Language: Programming languages are often used for developing large, complex software applications, system software, and other high-performance tasks. Examples include C++, Java, and C#.
+Scripting Language: Scripting languages are typically used for automating tasks, writing small to medium-sized scripts, web development (e.g., JavaScript and Python), and quick prototyping. They are often chosen for their ease of use and flexibility.
+
+Verbosity:
+Programming Language: Programming languages tend to be more verbose and require more lines of code to accomplish tasks. They often have a stricter syntax.
+Scripting Language: Scripting languages are often more concise and allow you to achieve tasks with fewer lines of code. They are designed for ease of use and readability.
+
+Portability: Both programming and scripting languages can be designed to be portable across different operating systems and platforms. The choice of language and the use of cross-platform libraries play a significant role in achieving portability.
+
+Q4. What is ECMA?
+ECMA (European Computer Manufacturers Association) ECMAScript is the standardized scripting language specification that serves as the foundation for JavaScript and other similar scripting languages.
+ECMAScript 5 (ES5) is a significant version of the ECMAScript programming language, which serves as the standardized specification for JavaScript,released in 2009. 
