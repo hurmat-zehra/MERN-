@@ -1,0 +1,7 @@
+JavaScript rendering engines used in web browsers:
+1. V8: V8 is Google's open-source JavaScript engine, used in Google Chrome and Node.js.
+It's known for its high performance.
+2. JavaScriptCore: Also known as Nitro, it's the JavaScript engine used in Apple's Safari
+browser.
+3. Rhino: An open-source JavaScript engine developed by the Mozilla Foundation,often used in Java applications.
+4. SpiderMonkey: Developed by Mozilla, SpiderMonkey is the JavaScript engine used in Firefox.
