@@ -1,0 +1,47 @@
+Q1. What is URL ?
+A URL, or Uniform Resource Locator, is essentially a web address that is used to locate resources on the internet. It serves as a reference to the location of a resource, such as a web page, a document, an image, or a file. A typical URL consists of several components:
+Scheme: This indicates the protocol used to access the resource. Common schemes include "http://" for Hypertext Transfer Protocol, "https://" for secure HTTP, "ftp://" for File Transfer Protocol, and others.
+Host:This specifies the domain name or IP address of the server where the resource is located. For example, in the URL "https://www.example.com," "www.example.com" is the host.
+Path: This indicates the specific location or directory on the server where the resource is stored. For example, in the URL "https://www.example.com/page/index.html," "/page/index.html" is the path.
+Query parameters: These are additional parameters that can be appended to the URL to provide information to the server. They are separated from the rest of the URL by a question mark "?" and are often in the form of key-value pairs.
+Fragment: This specifies a specific section or anchor within the resource. It is indicated by a hash "#" followed by the fragment identifier.
+Q2. Different DOCTYPES of previous html versions?
+HTML 5: HTML5 introduced a simplified and standardized DOCTYPE declaration that is backward-compatible with older versions.
+SYNTAX:
+<!DOCTYPE html>
+XHTML 1.0 Strict:
+Syntax:
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+HTML 4.01 Strict:
+Syntax:
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+HTML 4.01 Transitional:
+Syntax:
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+HTML 4.01 Frameset:
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+XHTML 1.1:
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+Q3.Difference between HTTP and HTTPS?
+The main difference between HTTP (Hypertext Transfer Protocol) and HTTPS (Hypertext Transfer Protocol Secure) lies in the security layer that HTTPS provides.
+Security:
+HTTP: It operates over a non-secure connection, meaning the data transferred between the user's browser and the website is not encrypted. This makes it susceptible to interception by third parties, exposing the information to potential security risks.
+HTTPS: It uses a secure, encrypted connection using SSL (Secure Sockets Layer) or its successor, TLS (Transport Layer Security). This encryption ensures that the data exchanged between the user and the website is secure and cannot be easily intercepted or tampered with by malicious entities.
+Protocol:
+HTTP: It uses a standard, unencrypted connection for communication between the client (browser) and the server.
+HTTPS: It uses a secure, encrypted connection, adding a layer of security to the communication.
+Port:
+HTTP: It typically operates over port 80.
+HTTPS: It typically operates over port 443.
+URL Scheme:
+HTTP: URLs begin with "http://".
+HTTPS: URLs begin with "https://".
+Q4.What is DOM?
+The DOM, or Document Object Model, is a programming interface that represents the structure of a document as a tree of objects. These objects correspond to elements, attributes, text content, and other components of a web page. The DOM provides a way for programs and scripts to dynamically access, manipulate, and update the content, structure, and style of a document. It serves as a bridge between the structure of a web page and the scripting or programming language, allowing for the creation of interactive and dynamic web applications.
+Q5.What are metatags in HTML?
+Meta tags in HTML provide metadata about the document, offering information that can be used by browsers, search engines, and other web services. 
+Q6.What is W3C?
+W3C stands for the World Wide Web Consortium. It is an international community that develops standards and guidelines to ensure the long-term growth and accessibility of the World Wide Web. The W3C was founded in 1994 by Sir Tim Berners-Lee, the inventor of the World Wide Web, and is currently led by web technology experts from various organizations around the world.
+
+
+
