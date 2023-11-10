@@ -1,0 +1,31 @@
+Q1: ASCII character set VS UTF-8 character set VS UTF-16 character set?
+1.ASCII (American Standard Code for Information Interchange):
+Encoding: 7-bit fixed-length encoding.
+Range: Limited to 128 characters, primarily English and basic symbols.
+Size: Each character is represented by one byte (8 bits).
+2.UTF-8 (Unicode Transformation Format 8-bit):
+Encoding: Variable-width encoding (1 to 4 bytes).
+Range: Can represent all Unicode characters.
+Size: Efficient for English (1 byte), expands for non-Western characters.
+3.UTF-16 (Unicode Transformation Format 16-bit):
+Encoding: Variable-width encoding (2 or 4 bytes).
+Range: Can represent all Unicode characters.
+Size: Efficient for BMP characters (2 bytes), expands for supplementary characters.
+Q2.What is SEO?
+SEO stands for Search Engine Optimization. It is a set of practices and techniques used to optimize websites or online content to improve their visibility and ranking on search engine results pages (SERPs). The primary goal of SEO is to increase organic (non-paid) traffic to a website by improving its relevance and authority in the eyes of search engines.
+Q3.Difference between framework and API?
+Framework:
+a.A pre-built, reusable structure guiding the development of an entire application.
+b.Provides an architecture, design patterns, and often dictates the flow of control.
+c.Developers extend the framework by fitting their code into the predefined structure.
+d.Examples include Django and Ruby on Rails for web development.
+API (Application Programming Interface):
+a.A set of rules and tools allowing different software components to communicate.
+b.Specifies methods and data formats for requesting and exchanging information.
+c.Abstracts underlying implementation details, focusing on interaction.
+d.Examples include the Twitter API for social media integration and Java API for building Java applications.
+In summary, a framework shapes the entire application's development, while an API facilitates communication between different software components.
+
+
+
+
