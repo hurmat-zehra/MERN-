@@ -1,0 +1,10 @@
+Q1. Is this picture mockup or wireframe.Give reasons for your answer?
+"Joe's Coffee Store" is represented with a simplified design, using basic shapes and placeholders without detailed visual elements. Moreover it has prioritized the layout and structure of elements, serving as a blueprint for the user interface.
+However, it is not mockup as mockup includes visual details such as colors, images, and typography. 
+Q2. Bootstrap, foundation, materialize, skeleton, miligram, material design lite, susy, what is common in these stuff write short intro?
+Commonalities among Bootstrap, Foundation, Materialize, Skeleton, Milligram, Material Design Lite, and Susy include:
+1. All these frameworks emphasize responsive design principles, ensuring that websites and applications adapt to various screen sizes and devices.
+2. They provide grid systems to facilitate the layout of content on the web page, enabling developers to create consistent and structured designs.
+3. Each framework offers a set of pre-designed UI components (e.g., buttons, forms, navigation bars) to simplify the development process and maintain visual consistency.
+4 .Most of these frameworks are open-source, allowing developers to use, modify, and contribute to the codebase freely. This fosters collaboration and innovation within the development community.
+5. They are designed to ensure compatibility with various web browsers, providing a consistent user experience across different platforms.
