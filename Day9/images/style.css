@@ -1,0 +1,59 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+html,
+body {
+  height: 100%;
+  margin: 0px;
+  font-size: 16px;
+  font-family: "lato", sans-serif;
+  font-weight: 400;
+  line-height: 1.8em;
+  color: rgb(95, 92, 92);
+}
+.kimg1 {
+  background-image: url(image1.jpg);
+  min-height: 100%;
+}
+.kimg2 {
+  background-image: url(image2.jpg);
+  min-height: 600px;
+}
+.kimg3 {
+  background-image: url(image3.jpg);
+  min-height: 600px;
+}
+.kimg1,
+.kimg2,
+.kimg3 {
+  position: relative;
+  background-attachment: scroll;
+}
+.ktext {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+.textBig {
+  color: white;
+  background-color: rgb(39, 37, 37);
+  padding: 20px;
+}
+.section {
+  padding: 50px 80px;
+  text-align: center;
+}
+.section-light {
+  background-color: antiquewhite;
+  color: rgb(71, 66, 66);
+}
+.section-dark {
+  background-color: rgb(71, 68, 68);
+  color: antiquewhite;
+}
